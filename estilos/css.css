@@ -1,0 +1,88 @@
+header{
+    text-align: center;
+    background: rgb(1, 19, 56);
+    border: 8px solid  rgb(1, 19, 56);
+    height: 400%;
+}
+header h1{
+    color:white;
+}
+section{
+    text-align: left;
+    width: 100%;
+    background: -webkit-linear-gradient(left, rgb(114, 150, 250) 0%, #bfcef7 50%, rgb(114, 150, 250) 100%);
+}
+header .nav1{
+    text-align: left;
+    
+}
+#foto{
+   
+    width: 50;
+    height:20;
+    float: inline-end;
+}
+
+
+.contenedor{
+    width: 100%;
+    display: inline-flex;
+    background: -webkit-linear-gradient(left, rgb(114, 150, 250) 0%, #bfcef7 50%, rgb(114, 150, 250) 100%);
+}
+
+.derecha{
+    text-align: center;
+    display:block;
+}
+
+.imagenderecha{
+    width: 500px;
+    height: 400px;
+}
+
+.contenedor2{
+    background: -webkit-linear-gradient(left, rgb(184, 202, 248) 0%, #e0e4f0 50%, rgb(184, 202, 248) 100%);
+    display: inline-flex;
+    width: 100%;
+}
+.contenedor2 h1{
+    background: rgb(245, 234, 86);
+    color: rgb(12, 11, 11);
+}
+.contenedor2 a:hover{
+    color:red;
+}
+
+.imagenderecha2{
+    width: 300px;
+    height: 300px;
+    text-align: right;
+    
+}
+.imagenderecha3{
+    width: 300px;
+    height: 300px;
+    text-align: right;
+    
+}
+.imagenderecha4{
+    width: 300px;
+    height: 300px;
+    text-align: right;
+    
+}
+
+#foto2{
+    width: 50;
+    height:20
+}
+.derecha2{
+    width: 100%;
+    text-align: center
+}
+
+.contenedor3{
+background: -webkit-linear-gradient(left, rgb(184, 219, 248) 0%, #b8bdcc 50%, rgb(184, 219, 248)100%);
+width: 100%;
+}
+
